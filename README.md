@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Byiringiro-saad
 - 👋 I'm a student at Rwanda Coding Academy
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Web development with javascript and Php
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Byiringirosaad@gmail.com
 
