@@ -3,7 +3,7 @@
 My names are BYIRINGIRO Saad and I am a full-stack web developer and software developer.
 
 **Reach Me Out:<br>**
-[![Linkedin Badge](https://img.shields.io/badge/-Byiringiro_saad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byiringiro-saad-1212861ba) [![Mail Badge](https://img.shields.io/badge/-@saju!_ui-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/saju_ui/) [![Mail Badge](https://img.shields.io/badge/-Byiringiro_saad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:byiringirosaad@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Byiringiro_saad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byiringiro-saad-1212861ba) [![Mail Badge](https://img.shields.io/badge/-@saju_ui-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/saju_ui/) [![Mail Badge](https://img.shields.io/badge/-Byiringiro_saad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:byiringirosaad@gmail.com)
 
 - Am a student at rwanda coding academy
 - Am currently learning web development with javascript and php
