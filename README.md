@@ -3,12 +3,11 @@
 My names are BYIRINGIRO Saad and I am a Full-stack web developer 💻 | UI/UX designer 🎨 | 3D Artist 💫.
 
 **Reach Me Out:<br>**
-[![Linkedin Badge](https://img.shields.io/badge/-Byiringiro_saad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byiringiro-saad-1212861ba) [![Mail Badge](https://img.shields.io/badge/-@saju_ui-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/saju_ui/) [![Mail Badge](https://img.shields.io/badge/-Byiringiro_saad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:byiringirosaad@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Byiringiro_saad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byiringiro-saad-1212861ba) [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/byiringluckys) [![Mail Badge](https://img.shields.io/badge/-Byiringiro_saad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:byiringirosaad@gmail.com) [![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/4Saad6)
 
 - I develop web applications mostly using MERN Stack
 - Am currently enhancing my skills in software development
 - And looking forward to collabrate on anything.
-- 📫 How to reach me: byiringirosaad@gmail.com
 - ⚡ Advice: First, solve the problem. Then, write the code.
 
 #### Top Technologies & Tools:
