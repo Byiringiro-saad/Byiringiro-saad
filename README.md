@@ -21,4 +21,10 @@ My names are BYIRINGIRO Saad and I am a Full-stack web developer 💻 | UI/UX de
 
 #### You can also find me:
 
-<a href=”https://www.linkedin.com/in/byiringiro-saad-1212861ba/"><img align=”left” src=”https://raw.githubusercontent.com/Byiringiro-saad/Byiringiro-saad/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+[![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[1]: https://twitter.com/4Saad6
+[2]: https://www.linkedin.com/in/byiringiro-saad-1212861ba/
