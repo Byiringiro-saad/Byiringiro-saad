@@ -1,13 +1,13 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My names are BYIRINGIRO Saad and I am a full-stack web developer and UI/UX designer.
+My names are BYIRINGIRO Saad and I am a full-stack web developer | UI/UX designer | 3D Artist.
 
 **Reach Me Out:<br>**
 [![Linkedin Badge](https://img.shields.io/badge/-Byiringiro_saad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byiringiro-saad-1212861ba) [![Mail Badge](https://img.shields.io/badge/-@saju_ui-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/saju_ui/) [![Mail Badge](https://img.shields.io/badge/-Byiringiro_saad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:byiringirosaad@gmail.com)
 
-- Am a student at rwanda coding academy
-- Am currently learning web development with javascript and php
-- Am looking forward to collabrate on anything
+- I develop web applications mostly using MERN Stack
+- Am currently enhancing my skills in software development
+- And looking forward to collabrate on anything.
 - 📫 How to reach me: byiringirosaad@gmail.com
 - ⚡ Advice: First, solve the problem. Then, write the code.
 
