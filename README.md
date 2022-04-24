@@ -5,8 +5,8 @@ My names are BYIRINGIRO Saad and I am a Frontend Developer 👌 and a Graphics D
 **Reach Me Out:<br>**
 [![Mail Badge](https://img.shields.io/badge/-Byiringiro_saad-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byiringirosaad@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Byiringiro_saad-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byiringiro-saad-1212861ba) [![Twitter](https://img.shields.io/badge/4Saad6-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/4Saad6) [![Instagram](https://img.shields.io/badge/Saju_ui-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saju_ui/)
 
-- I develop web applications using React
-- And Mobile applications using React Native
+- I develop web applications mostly using React
+- And Mobile applications using Flutter
 - And looking forward to collabrate on anything.
 - ⚡ Advice: First, solve the problem. Then, write the code.
 
