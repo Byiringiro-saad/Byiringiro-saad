@@ -1,8 +1,10 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+#### My name is BYIRINGIRO Saad ✨
+
 ![Asset 1](https://user-images.githubusercontent.com/61246755/165686609-20b8659c-77f2-49b0-a28e-eb1b125ca15c.png)
 
-My names are BYIRINGIRO Saad and I am a Frontend Developer 👌 and a Graphics Designer 💫.
+#### I am a Frontend Developer 👌 and a Graphics Designer 💫.
 
 **Reach Me Out:<br>**
 [![Mail Badge](https://img.shields.io/badge/-Byiringiro_saad-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byiringirosaad@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Byiringiro_saad-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byiringiro-saad-1212861ba) [![Twitter](https://img.shields.io/badge/4SaadB-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/4SaadB) [![Instagram](https://img.shields.io/badge/Saju_ui-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saju_ui/)
