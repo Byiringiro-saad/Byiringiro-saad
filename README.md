@@ -12,7 +12,7 @@
 - I develop web applications using React,
 - Mobile and desktop applications using Flutter.
 - Currently enhancing my skills in AI ✨(codes side 😁)
-- Trying to enhance my skills in motion graphics 🪄 (design side 👌)
+- Also am addicted to motion graphics 🪄 (design side 👌)
 - Am looking forward to collabrate on anything.
 - ⚡ Advice: First, solve the problem. Then, write the code.
 
