@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Artboard 1 copy 9-100](https://user-images.githubusercontent.com/61246755/165685738-2b6881cb-313b-4ff3-9f15-38330eba3ad9.jpg)
+![Asset 1](https://user-images.githubusercontent.com/61246755/165686609-20b8659c-77f2-49b0-a28e-eb1b125ca15c.png)
 
 My names are BYIRINGIRO Saad and I am a Frontend Developer 👌 and a Graphics Designer 💫.
 
