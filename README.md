@@ -2,7 +2,7 @@
 
 #### My name is BYIRINGIRO Saad ✨
 
-![Asset 1](https://user-images.githubusercontent.com/61246755/165686609-20b8659c-77f2-49b0-a28e-eb1b125ca15c.png)
+![Asset 2](https://user-images.githubusercontent.com/61246755/165687158-ac8dda68-bca2-466f-b51d-788a76ca9d22.png)
 
 #### I am a Frontend Developer 👌 and a Graphics Designer 💫.
 
