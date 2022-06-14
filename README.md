@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
-
-#### My name is BYIRINGIRO Saad ✨
+## BYIRINGIRO Saad ✨
 
 ![Asset 2](https://user-images.githubusercontent.com/61246755/165687158-ac8dda68-bca2-466f-b51d-788a76ca9d22.png)
 
