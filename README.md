@@ -7,8 +7,9 @@
 **Reach Me Out:<br>**
 [![Mail Badge](https://img.shields.io/badge/-Byiringiro_saad-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byiringirosaad@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Byiringiro_saad-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byiringiro-saad-1212861ba) [![Twitter](https://img.shields.io/badge/4SaadB-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/4SaadB) [![Instagram](https://img.shields.io/badge/Saju_ui-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saju_ui/)
 
-- I develop web applications interfaces using React(FE) 👌,
+- I develop web applications interfaces using ReactJs and NextJs 👌,
 - Mobile and desktop applications interfaces using Flutter 😊,
+- And i develop what end users aren't supposed to know using NodeJs, ExpressJs and NestJs 😎
 - Currently enhancing my skills in applications development and AI👌,
 - Am looking forward to collabrate on anything.
 - ⚡ Advice: First, solve the problem. Then, write the code.
@@ -19,7 +20,7 @@
 
 #### Top Technologies & Tools:
 
-[![Html Badge](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![css Badge](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](#) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) [![git Badge](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#) [![MONGODB badge](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](#)
+[![Html Badge](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![css Badge](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](#) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#) [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](#) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) [![git Badge](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#) [![MONGODB badge](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](#) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
 #### Top Design Tools:
 
