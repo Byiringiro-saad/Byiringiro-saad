@@ -2,7 +2,7 @@
   Fullstack Developer 👌
 </p>
 <p align="center">
-  <a href="https://twitter.com/4SaadB" target="_blank">Twitter</a>
+  <a href="https://flowcv.me/byiringiro-saad" target="_blank">Portfolio</a>
   <span> || </span>
   <a href="https://www.linkedin.com/in/byiringiro-saad/" target="_blank">LinkedIn</a>
 </p>
