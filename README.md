@@ -1,5 +1,5 @@
 <p align="center">
-  Fullstack Developer 👌
+  Fullstack Developer FE-H 👌
 </p>
 <p align="center">
   <a href="https://flowcv.me/byiringiro-saad" target="_blank">Portfolio</a>
